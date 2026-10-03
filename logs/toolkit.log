@@ -1,0 +1,104 @@
+	[Info] cpu is workin fine: 0%
+	[Info] cpu is workin fine: 0%
+	[Info] cpu is workin fine: 1%
+	[Info] cpu is workin fine: 0%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 0%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 0%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 0%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 0%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 1%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 1%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 0%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+	[Info] cpu is workin fine: 0%
+	[INFO] MEM is working fine: %
+	[INFO] Disk is fine: 68
+2026-10-01 19:45:12	[Info] cpu is workin fine: 0%
+2026-10-01 19:45:12	[INFO] MEM is working fine: %
+2026-10-01 19:45:12	[INFO] Disk is fine: 68
+2026-10-01 19:47:19	[Info] cpu is workin fine: 0%
+2026-10-01 19:47:19	[INFO] MEM is working fine: 23%
+2026-10-01 19:47:19	[INFO] Disk is fine: 68
+2026-10-01 19:47:23	[Info] cpu is workin fine: 0%
+2026-10-01 19:47:23	[INFO] MEM is working fine: 23%
+2026-10-01 19:47:23	[INFO] Disk is fine: 68
+2026-10-01 19:47:25	[Info] cpu is workin fine: 0%
+2026-10-01 19:47:25	[INFO] MEM is working fine: 23%
+2026-10-01 19:47:25	[INFO] Disk is fine: 68
+2026-10-01 19:47:26	[Info] cpu is workin fine: 0%
+2026-10-01 19:47:26	[INFO] MEM is working fine: 23%
+2026-10-01 19:47:26	[INFO] Disk is fine: 68
+2026-10-01 19:47:30	[Info] cpu is workin fine: 0%
+2026-10-01 19:47:30	[INFO] MEM is working fine: 23%
+2026-10-01 19:47:30	[INFO] Disk is fine: 68
+2026-10-02 11:41:17	[INFO] Backup created: /backup_*2026-10-02_11:41:17.tar.gz
+2026-10-02 11:41:17	[INFO] Deleted folder longer than 7 days
+2026-10-02 11:41:45	[INFO] Backup created: /backup_*2026-10-02_11:41:45.tar.gz
+2026-10-02 11:41:45	[INFO] Deleted folder longer than 7 days
+2026-10-02 11:44:04	[INFO] Backup created: /backup_*2026-10-02_11:44:04.tar.gz
+2026-10-02 11:44:04	[INFO] Deleted folder longer than 7 days
+2026-10-02 11:50:42	[INFO] Backup created: /backup_2026-10-02_11:50:42.tar.gz
+2026-10-02 11:50:42	[INFO] Deleted folder longer than 7 days
+2026-10-02 11:53:31	[INFO] Backup created: /backup_2026-10-02_11:53:31.tar.gz
+2026-10-02 11:53:31	[INFO] Deleted folder longer than 7 days
+2026-10-02 12:36:38	[INFO] Backup created: /backup_2026-10-02_12:36:38.tar.gz
+2026-10-02 12:36:38	[INFO] Deleted folder longer than 7 days
+2026-10-02 12:54:48	[INFO] Backup created: /backup_2026-10-02_12:54:48.tar.gz
+2026-10-02 12:54:48	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:03:12	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_13:03:12.tar.gz
+2026-10-02 13:03:12	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:03:25	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_13:03:25.tar.gz
+2026-10-02 13:03:25	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:03:26	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_13:03:26.tar.gz
+2026-10-02 13:03:26	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:03:28	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_13:03:28.tar.gz
+2026-10-02 13:03:28	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:05:49	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_130549.tar.gz
+2026-10-02 13:05:49	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:05:51	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_130551.tar.gz
+2026-10-02 13:05:51	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:05:52	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_130552.tar.gz
+2026-10-02 13:05:52	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:05:54	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_130554.tar.gz
+2026-10-02 13:05:54	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:05:55	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_130555.tar.gz
+2026-10-02 13:05:55	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:17:20	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_131720.tar.gz
+2026-10-02 13:17:20	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:17:22	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_131722.tar.gz
+2026-10-02 13:17:22	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:19:50	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_131950.tar.gz
+2026-10-02 13:19:50	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:19:58	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_131958.tar.gz
+2026-10-02 13:19:58	[INFO] Deleted folder longer than 7 days
+2026-10-02 13:19:59	[INFO] Backup created: /home/ubuntu/backups/backup_2026-10-02_131959.tar.gz
+2026-10-02 13:19:59	[INFO] Deleted folder longer than 7 days
+2026-10-02 20:43:13	[ERROR] ssh is down. Restarting...
+2026-10-02 20:43:13	[ERROR] cron is down. Restarting...
+2026-10-02 20:43:30	[ERROR] ssh is down. Restarting...
+2026-10-02 20:43:30	[ERROR] cron is down. Restarting...
+2026-10-02 20:45:38	[ERROR] ssh is down. Restarting...
+2026-10-02 20:45:38	[ERROR] cron is down. Restarting...
+2026-10-02 20:47:04	[INFO] ssh is running
+2026-10-02 20:47:04	[INFO] cron is running
+2026-10-02 20:47:18	[INFO] ssh is running
+2026-10-02 20:47:18	[ERROR] cron is down. Restarting...
+2026-10-02 20:47:24	[INFO] ssh is running
+2026-10-02 20:47:24	[INFO] cron is running
+2026-10-03 07:07:51	[INFO] ssh is running
+2026-10-03 07:07:51	[INFO] cron is running

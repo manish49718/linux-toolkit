@@ -1,0 +1,10 @@
+CPU_LIMIT=80
+MEM_LIMIT=80
+DISK_LIMIT=80
+
+BACKUP_FROM="$HOME/important_data"
+BACKUP_TO="$HOME/backups"
+KEEP_DAYS=7
+
+
+SERVICES="ssh cron"
